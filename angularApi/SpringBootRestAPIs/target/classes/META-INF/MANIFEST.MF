@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 15.0.2
+Implementation-Title: SpringBootRestAPIs
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach.restapi
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRestAPIs
+Created-By: Maven Integration for Eclipse
+
